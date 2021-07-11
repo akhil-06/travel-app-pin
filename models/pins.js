@@ -1,3 +1,4 @@
+
 const mongoose = require("mongoose");
 
 const PinSchema = new mongoose.Schema(
